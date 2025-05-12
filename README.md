@@ -311,9 +311,7 @@ JOIN employee_taxi_link_T_Bank l ON t.user_id = l.user_id;
 
 Сама структура хранения информации в базе данных Т-Банка  
 включает три связанные между собой таблицы и выглядит следующим образом:
-![Описание](https://drive.google.com/file/d/1iuq9KXsms7eRKv0kzbkglYrBbtC0Stwa/view?usp=drive_link)
-
- ![Sort 1]([https://drive.google.com/thumbnail?id=1q3i-qpGiC5VRJ3dheAFs9OxiVrxnC4BP&sz=w1000](https://drive.google.com/file/d/1iuq9KXsms7eRKv0kzbkglYrBbtC0Stwa/view?usp=drive_link))
+![Схема архитектуры](https://drive.google.com/uc?export=view&id=1iuq9KXsms7eRKv0kzbkglYrBbtC0Stwa)
 
 
 ---
